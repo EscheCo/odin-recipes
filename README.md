@@ -5,4 +5,4 @@ With this I'll be able to:
 2. show images
 3. make ordered lists and unordered lists.
 4. get a better understanding of git
-5. and more.
+5. understand basic HTML
